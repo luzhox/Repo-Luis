@@ -1,1 +1,3 @@
 este es un archivo importante
+git fetch origin para descargar archivos a local
+git merge origin/master para descargarlos
